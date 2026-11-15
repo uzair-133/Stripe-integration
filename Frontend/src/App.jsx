@@ -1,8 +1,8 @@
 import React from 'react'
-
+import Checkout from './pages/Checkout'
 const App = () => {
   return (
-    <div>App</div>
+  <Checkout/>
   )
 }
 
